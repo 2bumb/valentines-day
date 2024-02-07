@@ -44,7 +44,7 @@ position: absolute;
 }
 
 .img-1{  
-width: 300px;}
+width: 250px;}
 
 .img-2{  
 width: 200px;}
@@ -73,13 +73,20 @@ button:hover{background-color:rgba(270,0,110);}
 
 .Question {
   display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-  top: 80%; /* Position it in the middle vertically */
-  left: 50%; /* Position it in the middle horizontally */
-  transform: translate(-50%, -50%); /* Center it precisely */
+  justify-content: center; 
+  align-items: center; 
+  top: 80%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
   position: fixed;
   
 }
 .button{padding-left: 100px;}
+
+
+body{
+background-repeat: no-repeat;
+  background-size: cover; /* Cover the entire element */
+
+ }
 
