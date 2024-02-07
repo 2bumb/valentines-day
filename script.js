@@ -10,6 +10,6 @@ document.addEventListener("DOMContentLoaded", function() {
         setTimeout(function() {
             document.body.style.backgroundImage = "none"; // Reset background after 7 seconds
             img1.src = "obito.gif"; // Reset img-2 after 7 seconds
-        }, 7000); // 7 seconds
+        }, 3000); // 7 seconds
     });
 });
