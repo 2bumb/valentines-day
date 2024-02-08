@@ -14,9 +14,19 @@ document.addEventListener("DOMContentLoaded", function() {
             img2.classList.remove('hidden');
             yayVideo.play();
             img1.src = "kakashi-death.gif"; // Reset img-2 after 7 seconds
-        }, 1000); // 7 seconds
+        }, 2000); // 7 seconds
+        setTimeout(function() {
+
+            
+            img1.src = "obito.gif"; // Reset img-1 source to empty after additional 7 seconds
+        }, 5000); // 7 seconds
         
     });
 });
+
+
+// setTimeout(function() {
+    // img1.src = ""; // Reset img-1 source to empty after additional 7 seconds
+// }, 7000); // 7 seconds
 
 
