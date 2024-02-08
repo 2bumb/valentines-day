@@ -7,7 +7,7 @@ h1{
   left: 50%; /* Placing it at 50% from the left */
   transform: translate(-50%, -50%); /* Adjusting to center it precisely */
 
-  
+  padding-bottom: 140px;
 }
 
 
@@ -37,12 +37,14 @@ box-sizing: border-box;}
 
 
 img{width:100px;
-
-position: absolute;
+position: fixed;
   top: 50%;
   left: 50%; 
   transform: translate(-50%, -50%); 
-
+  padding-bottom: 120px;
+  padding-top: 100px;
+  /* margin-bottom: 100px; */
+  margin-top: 10px;
 }
 
 .img-1{  
@@ -80,6 +82,7 @@ border: none;
 background-color: transparent;
 box-shadow: 5px 5px 22px rgba(0,0,0,355);
 cursor: pointer;
+
 }
 
 button:hover{background-color:rgba(270,0,110);}
@@ -92,6 +95,8 @@ button:hover{background-color:rgba(270,0,110);}
   left: 50%; 
   transform: translate(-50%, -50%); 
   position: fixed;
+  /* padding-top: 50px; */
+  margin-top: 40px;
   
 }
 .button{padding-left: 100px;}
