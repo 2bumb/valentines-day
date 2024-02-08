@@ -102,10 +102,12 @@ button:hover{background-color:rgba(270,0,110);}
 .button{padding-left: 100px;}
 
 
-body{
-background-repeat: no-repeat;
-  background-size: cover; /* Cover the entire element */
 
- }
  .yay-vid{width:100px;}
 
+
+ .img-main {
+  background-repeat: no-repeat;
+  background-size: cover; /* Cover the entire element */
+
+}
