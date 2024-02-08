@@ -36,7 +36,7 @@ box-sizing: border-box;}
 
 
 
-img{width:100px;
+img,video{width:100px;
 position: fixed;
   top: 50%;
   left: 50%; 
@@ -46,7 +46,7 @@ position: fixed;
   /* margin-bottom: 100px; */
   margin-top: 10px;
 }
-
+video{width:200px}
 .img-1{  
 width: 150px;}
 

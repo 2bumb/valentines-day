@@ -9,7 +9,10 @@ document.addEventListener("DOMContentLoaded", function() {
         document.body.style.backgroundImage = "url(https://i.pinimg.com/originals/cf/50/6d/cf506d6998d68de01e9171f30fc4e287.gif)";
         setTimeout(function() {
             document.body.style.backgroundImage = "none"; // Reset background after 7 seconds
-            img1.src = "obito.gif"; // Reset img-2 after 7 seconds
-        }, 3000); // 7 seconds
+            img1.src = "kakashi-death.gif"; // Reset img-2 after 7 seconds
+        }, 1000); // 7 seconds
     });
 });
+
+
+// img1.src = "kakashi-death.gif"; // Reset img-2 after 7 seconds
