@@ -79,7 +79,7 @@ width: 120px;
 padding: 10px;
 font-size: 1.25rem;
 border: none;
-background-color: transparent;
+background-color: white;
 box-shadow: 5px 5px 22px rgba(0,0,0,355);
 cursor: pointer;
 
@@ -95,19 +95,16 @@ button:hover{background-color:rgba(270,0,110);}
   left: 50%; 
   transform: translate(-50%, -50%); 
   position: fixed;
-  /* padding-top: 50px; */
+ 
   margin-top: 40px;
   
 }
-.button{padding-left: 100px;}
-
-
 
  .yay-vid{width:100px;}
 
 
  .img-main {
   background-repeat: no-repeat;
-  background-size: cover; /* Cover the entire element */
+  background-size: cover;
 
 }
