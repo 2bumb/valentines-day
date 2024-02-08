@@ -16,10 +16,9 @@ document.addEventListener("DOMContentLoaded", function() {
             img1.src = "kakashi-death.gif"; // Reset img-2 after 7 seconds
         }, 2000); // 7 seconds
         setTimeout(function() {
-
-            
             img1.src = "obito.gif"; // Reset img-1 source to empty after additional 7 seconds
         }, 5000); // 7 seconds
+        
         
     });
 });

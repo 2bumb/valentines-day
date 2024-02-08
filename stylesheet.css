@@ -85,7 +85,11 @@ cursor: pointer;
 
 }
 
-button:hover{background-color:rgba(270,0,110);}
+button:hover{background-color:#a9a9a9;
+position:relative;
+bottom: 5px;
+left: 5px;
+}
 
 .Question {
   display: flex;
@@ -95,7 +99,7 @@ button:hover{background-color:rgba(270,0,110);}
   left: 50%; 
   transform: translate(-50%, -50%); 
   position: fixed;
- 
+  /* padding-top: 50px; */
   margin-top: 40px;
   
 }
