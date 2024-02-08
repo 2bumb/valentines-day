@@ -14,6 +14,9 @@ document.addEventListener("DOMContentLoaded", function() {
             img2.classList.remove('hidden');
             yayVideo.play();
             img1.src = "kakashi-death.gif"; // Reset img-2 after 7 seconds
-        }, 2000); // 7 seconds
+        }, 1000); // 7 seconds
+        
     });
 });
+
+
