@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 2000); // 7 seconds
         setTimeout(function() {
             img1.src = "obito.gif"; // Reset img-1 source to empty after additional 7 seconds
-        }, 5000); // 7 seconds
+        }, 4800); // 7 seconds
         
         
     });
