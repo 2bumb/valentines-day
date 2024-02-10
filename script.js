@@ -22,16 +22,19 @@ document.addEventListener("DOMContentLoaded", function() {
             img1.src = "kakashi-death.gif"; // Reset img-2 after 7 seconds
         }, 2000); // 7 seconds
         setTimeout(function() {
+            
             img1.src = "obito.gif"; // Reset img-1 source to empty after additional 7 seconds
             resetNoBtnStyle(); // Reset the style of the no button
         }, 4800); // 7 seconds
     });
 
     noBtn.addEventListener("mouseover", function() {
-        noBtn.style.transform = "translateX(300px)"; // Move the button 300px to the right
+        noBtn.style.transform = "translateX(-470px)"; // Move the button 300px to the right
     });
 
     noBtn.addEventListener("mouseout", function() {
-        noBtn.style.transform = "translateY(300px)"; // Reset the button position when mouse leaves
+        noBtn.style.transform = "translateY(-1000px)"; // Reset the button position when mouse leaves
+
+        //i need the button to stay in the users view    
     });
 });
