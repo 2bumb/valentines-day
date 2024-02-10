@@ -36,5 +36,8 @@ document.addEventListener("DOMContentLoaded", function() {
         noBtn.style.transform = "translateY(-1000px)"; // Reset the button position when mouse leaves
 
         //i need the button to stay in the users view    
+        //add the tyler.vid after kakashi finish dancing
+        //at the end i want everything to rest and be normal from the start 
+
     });
 });
