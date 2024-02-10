@@ -1,10 +1,16 @@
 document.addEventListener("DOMContentLoaded", function() {
     const yesBtn = document.querySelector(".yes-btn");
+    const noBtn = document.querySelector(".no-btn");
     const img1 = document.querySelector(".img-1");
     const img2 = document.querySelector(".img-2");
     const img3 = document.querySelector(".img-3");
     const yayVideo = document.querySelector(".yay-vid");
     const tylerVid = document.querySelector(".tyler-vid");
+
+    function resetNoBtnStyle() {
+        noBtn.style.transform = ""; // Reset the transform
+    }
+
     yesBtn.addEventListener("click", function() {
         img1.src = img2.src;
         // Change background for 7 seconds
@@ -17,15 +23,15 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 2000); // 7 seconds
         setTimeout(function() {
             img1.src = "obito.gif"; // Reset img-1 source to empty after additional 7 seconds
+            resetNoBtnStyle(); // Reset the style of the no button
         }, 4800); // 7 seconds
-        
-        
+    });
+
+    noBtn.addEventListener("mouseover", function() {
+        noBtn.style.transform = "translateX(300px)"; // Move the button 300px to the right
+    });
+
+    noBtn.addEventListener("mouseout", function() {
+        noBtn.style.transform = "translateY(300px)"; // Reset the button position when mouse leaves
     });
 });
-
-
-// setTimeout(function() {
-    // img1.src = ""; // Reset img-1 source to empty after additional 7 seconds
-// }, 7000); // 7 seconds
-
-
