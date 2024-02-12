@@ -4,11 +4,12 @@
 </p>
 
 <h1>Components used:</h1>
-<p></p>
+<p>Button:I created two reactive</p>
 
 <h1>What I learn:</h1>
 <p></p>
 
-<h1>What I can improve:</h1>
+<h1>What I can improve:
+Button:If the button is hovered, the button class no-btn start to go down. In the future I will create a script where the no-btn will only jump around the users screen rather than going off course. </h1>
 
 <p></p>
