@@ -4,7 +4,9 @@
 </p>
 
 <h1>Components used:</h1>
-<p>Button:I created two reactive. If the user hovers on "no" the "no-btn" will immediately go down out of the users view</p>
+<p>Button:I created two reactive button when the user hovers over the buttons. If the user hovers on "no" button the "no-btn" will immediately go down out of the users view
+
+if the user clicks on yes the button will react showing kakashi(anime character)daning transitioning to the </p>
 
 <h1>What I learn:</h1>
 <p></p>
