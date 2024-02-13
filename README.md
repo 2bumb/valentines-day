@@ -6,10 +6,10 @@
 <h1>Components used:</h1>
 <p>Button:I created two reactive button when the user hovers over the buttons. If the user hovers on "no" button the "no-btn" will immediately go down out of the users view
 
-if the user clicks on yes the button will react showing kakashi(anime character)daning transitioning to the </p>
+if the user clicks on yes the button will react showing kakashi(anime character)dancing transitioning to the audio and the "surprice" which will rest  </p>
 
 <h1>What I learn:</h1>
-<p></p>
+<p>Implmeneted a time out</p>
 
 <h1>What I can improve: </h1>
 
