@@ -8,7 +8,7 @@
 
 If the user clicks on 'yes', the button will react by displaying Kakashi (an anime character) dancing, transitioning to the audio and the 'surprise', which will reset 
 
-Event Handling:Used addEventListener() creating a sequence of events when the user click "yes"
+Event Handling:Used addEventListener() creating a sequence of events when the user click "yes".
 
 DOM Manipulation: I set the background image of the webpage by adjusting the backgroundImage property of the document.body.style, which allowed me to display a GIF as the background during the event
 </p>
@@ -18,4 +18,7 @@ DOM Manipulation: I set the background image of the webpage by adjusting the bac
 
 <h1>What I can improve: </h1>
 
-<p>Button:If the button is hovered, the button class no-btn start to go down. In the future I will create a script where the no-btn will only jump around the users screen rather than going off the screen</p>
+<p>Button:If the button is hovered, the button class no-btn start to go down. In the future I will create a script where the no-btn will only jump around the users screen rather than going off the screen
+
+Sequence:
+</p>
