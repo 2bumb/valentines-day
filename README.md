@@ -10,7 +10,7 @@ If the user clicks on 'yes', the button will react by displaying Kakashi (an ani
 
 Event Handling:Used addEventListener() creating a sequence of events when the user click "yes"
 
-DOM Manipulation:
+DOM Manipulation: I set the background image of the webpage by adjusting the backgroundImage property of the document.body.style, which allowed me to display a GIF as the background during the event
 </p>
 
 
