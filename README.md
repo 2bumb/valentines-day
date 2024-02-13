@@ -6,7 +6,12 @@
 <h1>Components used:</h1>
 <p>Button:I created two reactive buttons that respond when the user hovers over them. If the user hovers over the 'no' button, the 'no-btn' will immediately move downwards, out of the user's view.
 
-If the user clicks on 'yes', the button will react by displaying Kakashi (an anime character) dancing, transitioning to the audio and the 'surprise', which will reset </p>
+If the user clicks on 'yes', the button will react by displaying Kakashi (an anime character) dancing, transitioning to the audio and the 'surprise', which will reset 
+
+Event Handling:Used addEventListener() creating a sequence of events when the user click "yes"
+
+DOM Manipulation:
+</p>
 
 
 <p>Implmeneted a time out</p>
