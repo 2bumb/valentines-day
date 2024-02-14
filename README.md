@@ -1,5 +1,4 @@
 <h1>Valentines Day Gag Note </h1>
-<img src="https://gifdb.com/images/high/kagami-hiiragi-happy-valentines-day-74evhsy2bv2gja5u.gif" width="100">
 <img src="https://github.com/2bumb/valentines-day/assets/133481864/562b6d2f-1bd0-4d79-82b6-153707c62501" width="100">
             
 <br/>
