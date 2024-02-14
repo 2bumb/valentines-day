@@ -25,7 +25,7 @@ DOM Manipulation: I set the background image of the webpage by adjusting the bac
 <p>Implmeneted a time out</p>
 
 <h1>What I can improve: </h1>
-
+<img src="https://github.com/2bumb/valentines-day/assets/133481864/d3823448-9e8d-471f-aa99-a1a479a629f4"width="100">
 
 
 
