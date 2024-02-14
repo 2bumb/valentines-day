@@ -7,8 +7,11 @@
 
 <h1>Components used:</h1>
 
-<img src="https://github.com/2bumb/valentines-day/assets/133481864/e22e3641-9ec7-4f2e-9de4-d0405429cad1"
+<img src="
+https://github.com/2bumb/valentines-day/assets/133481864/576b418a-fcef-4a07-aa21-f0de98df823a"
  width="100">
+
+
             
 <br/>
 <p>Button:I created two reactive buttons that respond when the user hovers over them. If the user hovers over the 'no' button, the 'no-btn' will immediately move downwards, out of the user's view.
