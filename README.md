@@ -27,6 +27,12 @@ DOM Manipulation: I set the background image of the webpage by adjusting the bac
 <p>Implmeneted a time out</p>
 
 <h1>What I can improve: </h1>
+img src=" https://github.com/2bumb/valentines-day/assets/133481864/7a6b11e5-2031-4e3b-8745-9b7d51ccd73a"
+ width="100">
+
+
+            
+<br/>
 
 <p>Button:If the button is hovered, the button class no-btn start to go down. In the future I will create a script where the no-btn will only jump around the users screen rather than going off the screen
 
