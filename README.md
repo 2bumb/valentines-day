@@ -6,6 +6,11 @@
 </p>
 
 <h1>Components used:</h1>
+
+<img src="https://github.com/2bumb/valentines-day/assets/133481864/1b14fc22-1bb5-49cb-a198-e63420ad3c2f"
+ width="100">
+            
+<br/>
 <p>Button:I created two reactive buttons that respond when the user hovers over them. If the user hovers over the 'no' button, the 'no-btn' will immediately move downwards, out of the user's view.
 
 If the user clicks on 'yes', the button will react by displaying Kakashi (an anime character) dancing, transitioning to the audio and the 'surprise', which will reset 
