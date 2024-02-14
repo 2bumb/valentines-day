@@ -7,9 +7,7 @@
 
 <h1>Components used:</h1>
 
-<img src="
-https://github.com/2bumb/valentines-day/assets/133481864/576b418a-fcef-4a07-aa21-f0de98df823a"
- width="100">
+<img src="https://github.com/2bumb/valentines-day/assets/133481864/576b418a-fcef-4a07-aa21-f0de98df823a" width="100">
 
 
             
