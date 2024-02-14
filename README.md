@@ -1,6 +1,6 @@
 <h1>Valentines Day Gag Note </h1>
 <img src="https://gifdb.com/images/high/kagami-hiiragi-happy-valentines-day-74evhsy2bv2gja5u.gif" width="100">
-<img src="(https://github.com/2bumb/valentines-day/assets/133481864/562b6d2f-1bd0-4d79-82b6-153707c62501)" width="100">
+<img src="https://github.com/2bumb/valentines-day/assets/133481864/562b6d2f-1bd0-4d79-82b6-153707c62501" width="100">
             
 <br/>
 <p>Upon hearing my friend's dilemma about asking out his potential significant other, I was inspired to create something unique for Valentine's Day: Anime Gag Note.I was inform his crush's love for humor and passion for anime, I decided to infuse the note with a special surprise. While aiming for the note to be cute and friendly, I wanted it to stand out and be unforgettable. With my friend's approval, I crafted the note, hoping to create a memorable moment for both of them. 
