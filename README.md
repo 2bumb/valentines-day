@@ -12,7 +12,7 @@
 <br/>
 <p>Button: I created two reactive buttons that respond when the user hovers over them. If the user hovers over the 'no' button, the 'no-btn' will immediately move downwards, out of the user's view.
 
-If the user clicks on 'yes', the button will react by displaying Kakashi (an anime character) dancing, transitioning to the audio and the 'surprise', which will reset 
+If the user clicks on 'yes', the button will react by displaying a gif of Kakashi (anime character) dancing, transitioning to the audio, and Kakashi "stealing" his friend's heart which will reset using event and setTimeout(). 
 
 Event Handling: Used addEventListener() creating a sequence of events when the user clicks "yes".
 
