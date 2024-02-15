@@ -31,5 +31,5 @@ DOM Manipulation: I set the background image of the webpage by adjusting the bac
 
 <p>Button:If the button is hovered, the button class no-btn start to go down. In the future I will create a script where the no-btn will only jump around the users screen rather than going off the screen
 
-Sequence:when the "yes" button is click there is a delay for the audio.
+Sequence: when the "yes" button is clicked there is a delay for the audio even if I adjust the time.
 </p>
