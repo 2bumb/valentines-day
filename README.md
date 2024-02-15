@@ -2,7 +2,8 @@
 <img src="https://github.com/2bumb/valentines-day/assets/133481864/562b6d2f-1bd0-4d79-82b6-153707c62501" width="100">
             
 <br/>
-<p>Upon hearing my friend's dilemma about asking out his potential significant other, I was inspired to create something unique for Valentine's Day: Anime Gag Note. I was informed of his crush's love for humor and passion for anime, so I decided to infuse the note with a special surprise. While aiming for the note to be cute and friendly, I wanted it to stand out and be unforgettable. With my friend's approval, I crafted the note, hoping to create a memorable moment for both of them. 
+<p>Upon hearing my friend's dilemma about asking out his potential significant other, I was inspired to create something unique for Valentine's Day: Anime Gag Note. I was informed of his crush's love for humor and passion for anime, so I decided to infuse the note with a special surprise. While aiming for the note to be cute and friendly, I wanted it to stand out and be unforgettable. With my friend's approval, I crafted the note, hoping to create a memorable moment for both of them.
+            <img src="https://github.com/2bumb/valentines-day/assets/133481864/1a25f2c5-cf10-4cc9-a2dd-6ac7a035ca7f" width="100">
 </p>
 
 <h1>Components used:</h1>
