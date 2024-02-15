@@ -31,8 +31,3 @@ DOM Manipulation: I set the background image of the webpage by adjusting the bac
 
 Sequence: when the "yes" button is clicked there is a delay for the audio even if I adjust the time.
 </p>
-
-<style>
-
-            .sneeky{margin:100px;}
-</style> 
