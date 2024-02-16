@@ -1,11 +1,11 @@
 h1{
   color: pink;
   font-family: "Short Stack";
-  text-align: center; /* Centering the text horizontally */
-  position: absolute; /* Positioning the h1 element */
-  top: 30%; /* Placing it at 50% from the top */
-  left: 50%; /* Placing it at 50% from the left */
-  transform: translate(-50%, -50%); /* Adjusting to center it precisely */
+  text-align: center; 
+  position: absolute; 
+  top: 30%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
 
   padding-bottom: 140px;
 }
@@ -80,7 +80,6 @@ left: 5px;
   left: 50%; 
   transform: translate(-50%, -50%); 
   position: fixed;
-  /* padding-top: 50px; */
   margin-top: 40px;
   
 }
