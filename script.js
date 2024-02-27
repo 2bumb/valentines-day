@@ -33,11 +33,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     noBtn.addEventListener("mouseout", function() {
-        noBtn.style.transform = "translateY(-1000px)"; // Reset the button position when mouse leaves
-
-        //i need the button to stay in the users view when they make the attempt to hover on the. no-btn  
-        //add the tyler.vid after kakashi finish dancing
-        //at the end i want everything to rest and be normal from the start 
+        noBtn.style.transform = "translateY(-1000px)";
 
     });
 });
